@@ -5,7 +5,7 @@
 
 ## Implementación
 
-Añade a tú proyecto los archivos de la carpeta "Library".
+Añade a tú proyecto los archivos de la carpeta "Library". No olvides los Resources: attr, strings y colors.
 
 ## Inicio
 
