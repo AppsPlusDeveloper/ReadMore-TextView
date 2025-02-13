@@ -27,3 +27,18 @@ Añade el layout a tú xml.
 
 ¡Y ésto es todo!
 Ahora podrás extender y acortar los textos largos en tú App.
+
+## Funciones
+
+Esto te será de ayuda para controlar el ReadMore-TextView remotamente:
+
+```java
+//Acciones
+textview1.expand();
+textview1.collapse();
+textview1.toggle();
+
+//Estados
+textview1.isExpanded()
+textview1.isCollased()
+```
